@@ -63,7 +63,7 @@
 `git add .; git commit -m 'add structure of Check ListS' ; git push`  
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main  
 10. Зайти во внешний репозиторий CheckLists.  
-Нажать появившуюся кнопку "Compare & pull request" -- Ввести сообщение с произведенными изменениями -- 
-Нажать кнопку "Create pull request"  -- На открывшейся странице Нажать "Merge pull request".  
+`Нажать появившуюся кнопку "Compare & pull request" -- Ввести сообщение с произведенными изменениями -- 
+Нажать кнопку "Create pull request"  -- На открывшейся странице Нажать "Merge pull request".`  
 11. Синхронизировать Внешнюю и Локальную ветки Main.  
 `git pull`  
