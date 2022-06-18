@@ -1,4 +1,4 @@
-# GitHub_HW_2   
+# GitHub_HW_2  
 1. На локальном репозитории сделать ветки для:  
 - Postman  
 `git checkout -b Postman`  
